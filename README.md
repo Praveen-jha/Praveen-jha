@@ -38,11 +38,19 @@
 <br />
 <br />
 
----
 
 
 
 ---
+
+
+
+---
+
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Praveen-jha&show_icons=true&theme=tokyonight" />   &nbsp; &nbsp; &nbsp;  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Praveen-jha&theme=tokyonight" />
+  
+</p>
+<a href="https://github.com/Praveen-jha/Praveen-jha"><img alt=" Praveen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Praveen-jha&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 [twitter]: https://twitter.com/praveen3478
