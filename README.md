@@ -13,10 +13,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Praveen jha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<!-- [<img align="left" alt="Praveen jha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Praveen jha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Praveen jha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="Praveen jha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="6.5%"/>](www.linkedin.com/in/praveen-jha-655b131b6)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="6.5%"/>](https://twitter.com/praveen3478)
+[<img src="https://img.icons8.com/color/48/000000/instagram.png" width="6.5%"/>](https://instagram.com/mr_praveen_jha_)
+[<img src="https://img.icons8.com/fluent/48/000000/google-plus.png" width="6.5%"/>](mailto:praveenjhafbg54321@gmail.com)
 <br />
 
 ### Languages and Tools:
