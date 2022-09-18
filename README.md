@@ -4,11 +4,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/praveen3478?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpraveen3478&screen_name=praveen3478)
 
 ## I'm a Developer, Open Source Contributor
-
-- 💬 Ask me about Development 
-- 🌱 I’m currently learning Full Stack Developer 😊
+ 
 - 👯 I’m looking to collaborate with other  Developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Learning DSA and Solving the problem on GFG
 - ⚡ Fun fact: I love and Enjoy Coding
 
 ### Connect with me:
